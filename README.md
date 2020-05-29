@@ -56,5 +56,62 @@ A Python code for the graphical simulation of the propagation of and impact of m
 ![readmeliveplot](https://user-images.githubusercontent.com/63970623/83266338-98eed780-a1ba-11ea-8c6e-95236a0ea090.png)
 
 ## Convergence Plots
+
+### Typical convergence output (may be different due to randomness)
+
+AT CONVERGENCE:
+
+******DAYS TO CONVERGE*******: 123
+
+      :  
+People sample Size: 902
+
+Number of Elderly: 180
+
+Number of young: 722
+
+Number in Elderly in Care Home: 9
+
+****:     
+
+Total Number of Infected: 551
+
+Total Number of Non-Infected Young People: 270
+
+Total Number of Non-Infected Elderly People: 77
+
+Total Number of Non-Infected Care Home patients: 4
+
+*****:      
+
+Cummulative Number of people admitted to Qua/Hospital: 546
+
+     Number of Elderly in Qua/Hospital on convergence day: 2
+     
+     Number of Young in Qua/Hospital on convergence day: 1
+     
+******:       
+
+Cummulative Number who Recovered: 480
+
+    Number of Young who recovered: 404
+    
+    Number of Elderly who recovered: 76
+    
+*******:        
+
+Cummulative Number in ICU patients on convergence day: 68
+
+    Number of Young in ICU: 22
+    
+    Number of elderly in ICU: 45
+    
+    Number of Care Home patient in ICU: 1
+    
+********:        
+
+Total Number of Deaths: 37
+
+### Convergence Plots
 ![readmesubplots](https://user-images.githubusercontent.com/63970623/83266357-a1471280-a1ba-11ea-8177-bb26bb789b64.png)
 ![readmedeathplot](https://user-images.githubusercontent.com/63970623/83266372-a73cf380-a1ba-11ea-9efb-e5bbf0061935.png)
