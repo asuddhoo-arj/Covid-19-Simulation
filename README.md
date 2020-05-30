@@ -5,7 +5,7 @@ A Python code for the graphical simulation of the propagation of and impact of m
 # This code simulates the propagation of Covid-19 through a graphical     representation of a sample population with random motion.
 
 ## Disclaimer:
-### The model used in the code incorporates a number of key assumptions and probabilities which are to be carefully noted. While the purpose of the code is for illustration only, its output should not be used unless specific assistance is sought from experts in the field of epistemology. Any part of the code may be used provided reference is made to the present code.
+### The model used in the code incorporates a number of key assumptions and probabilities which are to be carefully noted. While the purpose of the code is for illustration only, its output should not be used unless specific assistance is sought from experts in the field of epidemiology. Any part of the code may be used provided reference is made to the present code.
 
 ## The Model:
 
