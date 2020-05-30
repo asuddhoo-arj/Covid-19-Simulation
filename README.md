@@ -9,7 +9,7 @@ A Python code for the graphical simulation of the propagation of and impact of m
 
 ## The Model:
 
-### Given a random sample of people comprising young people, elderly and those in Care Home, the code uses random motion to simulate the progagation of the disease given an initial number of infected persons. Through close contact, the desease is spread throughout the sample. Detection of infected people can be evoked and those detected sent to Quarantine/Hospital where they have to spend 14 days. Depending on the extent of detection, some infected people will remain in the sample. From hospital, those infected can either recover and go back to the main sample, or be sent to an Intensive Care Unit (ICU), where some may pass away. 
+### Given a random sample of people comprising young people, elderly and those in Care Home, the code uses random motion to simulate the progagation of the disease given an initial number of infected persons. Through close contact, the desease is spread throughout the sample. Detection of infected people can be evoked and those detected sent to Quarantine/Hospital where they have to spend 14 days. Depending on the extent of detection, some infected people will remain in the sample. From hospital, those infected can either recover and go back to the main sample, or be sent to an Intensive Care Unit (ICU), where some may pass away. Those who recovered are assumed to be immuned.
 ### In addition to testing, the model includes two other features:
 ### First, the effect on the propagation, of a specified proportion of the sample wearing Personal Protection Equipmemt (PPE), such as face mask; and
 ### Second, the effect of a specified proportion of the sample practising Social Distancing.
